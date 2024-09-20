@@ -1,0 +1,5 @@
+export const START_STOPWATCH = 'START_STOPWATCH';
+export const STOP_STOPWATCH = 'STOP_STOPWATCH';
+export const RESET_STOPWATCH = 'RESET_STOPWATCH';
+export const SAVE_RECORD = 'SAVE_RECORD';
+
